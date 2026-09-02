@@ -1,0 +1,44 @@
+[
+  {
+    "headline": "OPEC+ signals possible extension of production cuts into next quarter",
+    "country": "Global (OPEC)", "time": "09:14 UTC", "source": "Wire Services",
+    "category": "Energy Policy", "assets": ["Crude Oil", "Energy Equities", "USD", "Inflation-linked Bonds"],
+    "interpretation": "Tighter supply expectations typically firm up oil prices, which can feed into headline inflation and pressure central banks to hold rates higher for longer.",
+    "impact": "positive", "strength": "high", "confidence": 72
+  },
+  {
+    "headline": "China property developer misses bond coupon payment",
+    "country": "China", "time": "07:52 UTC", "source": "Financial Press",
+    "category": "Credit Event", "assets": ["China Property Stocks", "CNY", "Asian Credit ETFs", "Copper"],
+    "interpretation": "Isolated defaults can raise credit-risk premiums across the sector and weigh on sentiment for China-linked cyclical assets.",
+    "impact": "negative", "strength": "medium", "confidence": 61
+  },
+  {
+    "headline": "US core inflation print comes in line with expectations",
+    "country": "USA", "time": "12:30 UTC", "source": "Government Data Release",
+    "category": "Macro Data", "assets": ["US Treasuries", "USD", "Rate-sensitive Equities", "Gold"],
+    "interpretation": "An in-line print reduces near-term surprise risk for rate policy, generally supportive for duration assets and risk sentiment.",
+    "impact": "neutral", "strength": "medium", "confidence": 66
+  },
+  {
+    "headline": "Bank of Japan hints at gradual policy normalization",
+    "country": "Japan", "time": "05:10 UTC", "source": "Central Bank Communication",
+    "category": "Monetary Policy", "assets": ["JPY", "Japanese Govt. Bonds", "Nikkei 225", "Carry Trades"],
+    "interpretation": "Hawkish signaling tends to strengthen the yen and can unwind leveraged carry positions funded in JPY.",
+    "impact": "negative", "strength": "medium", "confidence": 58
+  },
+  {
+    "headline": "Major chipmaker raises full-year guidance on AI demand",
+    "country": "Taiwan / USA", "time": "13:45 UTC", "source": "Company Filing",
+    "category": "Earnings", "assets": ["Semiconductor Equities", "TAIEX", "Nasdaq 100", "Copper"],
+    "interpretation": "Upgraded guidance from a bellwether often lifts sentiment across the broader technology and hardware supply chain.",
+    "impact": "positive", "strength": "high", "confidence": 75
+  },
+  {
+    "headline": "Red Sea shipping disruptions reported to continue",
+    "country": "Middle East", "time": "03:22 UTC", "source": "Maritime Monitoring",
+    "category": "Geopolitical / Logistics", "assets": ["Freight Rates", "Crude Oil", "European Retail Stocks"],
+    "interpretation": "Extended shipping-route disruption can lengthen delivery times and add cost pressure for import-heavy sectors.",
+    "impact": "negative", "strength": "low", "confidence": 54
+  }
+]

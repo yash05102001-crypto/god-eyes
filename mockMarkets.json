@@ -1,0 +1,55 @@
+{
+  "stocks": [
+    { "name": "S&P 500", "country": "USA", "exchange": "NYSE/NASDAQ", "value": 6481.20, "changePct": 0.42 },
+    { "name": "Nasdaq 100", "country": "USA", "exchange": "NASDAQ", "value": 23102.90, "changePct": 0.81 },
+    { "name": "Nifty 50", "country": "India", "exchange": "NSE", "value": 25110.50, "changePct": -0.35 },
+    { "name": "Sensex", "country": "India", "exchange": "BSE", "value": 82340.10, "changePct": -0.31 },
+    { "name": "Nikkei 225", "country": "Japan", "exchange": "TSE", "value": 39882.00, "changePct": 1.12 },
+    { "name": "Hang Seng", "country": "Hong Kong", "exchange": "HKEX", "value": 18930.40, "changePct": -0.64 },
+    { "name": "Shanghai Composite", "country": "China", "exchange": "SSE", "value": 3301.70, "changePct": 0.18 },
+    { "name": "FTSE 100", "country": "UK", "exchange": "LSE", "value": 8412.60, "changePct": 0.09 },
+    { "name": "DAX", "country": "Germany", "exchange": "XETRA", "value": 18955.30, "changePct": 0.27 },
+    { "name": "CAC 40", "country": "France", "exchange": "Euronext Paris", "value": 7701.20, "changePct": -0.12 },
+    { "name": "TSX Composite", "country": "Canada", "exchange": "TSX", "value": 23410.80, "changePct": 0.22 },
+    { "name": "ASX 200", "country": "Australia", "exchange": "ASX", "value": 8102.40, "changePct": 0.15 },
+    { "name": "KOSPI", "country": "South Korea", "exchange": "KRX", "value": 2720.90, "changePct": 0.55 },
+    { "name": "TAIEX", "country": "Taiwan", "exchange": "TWSE", "value": 22910.30, "changePct": 1.40 },
+    { "name": "Straits Times Index", "country": "Singapore", "exchange": "SGX", "value": 3540.10, "changePct": 0.08 },
+    { "name": "ADX General", "country": "UAE", "exchange": "ADX", "value": 9540.20, "changePct": 0.11 },
+    { "name": "Bovespa", "country": "Brazil", "exchange": "B3", "value": 132410.00, "changePct": -0.48 }
+  ],
+  "bonds": [
+    { "name": "US 10Y Treasury", "country": "USA", "yieldPct": 4.28, "changeBps": 3 },
+    { "name": "India 10Y G-Sec", "country": "India", "yieldPct": 6.92, "changeBps": -2 },
+    { "name": "Japan 10Y JGB", "country": "Japan", "yieldPct": 1.04, "changeBps": 1 },
+    { "name": "Germany 10Y Bund", "country": "Germany", "yieldPct": 2.41, "changeBps": 2 },
+    { "name": "UK 10Y Gilt", "country": "UK", "yieldPct": 4.05, "changeBps": -1 },
+    { "name": "China 10Y Govt Bond", "country": "China", "yieldPct": 2.15, "changeBps": 0 },
+    { "name": "Brazil 10Y", "country": "Brazil", "yieldPct": 11.85, "changeBps": 5 }
+  ],
+  "currencies": [
+    { "pair": "DXY (USD Index)", "value": 101.82, "changePct": 0.14 },
+    { "pair": "EUR/USD", "value": 1.0912, "changePct": -0.10 },
+    { "pair": "GBP/USD", "value": 1.2734, "changePct": 0.05 },
+    { "pair": "USD/JPY", "value": 152.40, "changePct": 0.32 },
+    { "pair": "USD/CHF", "value": 0.8801, "changePct": -0.06 },
+    { "pair": "AUD/USD", "value": 0.6542, "changePct": 0.21 },
+    { "pair": "USD/CAD", "value": 1.3712, "changePct": -0.03 },
+    { "pair": "USD/INR", "value": 87.14, "changePct": 0.09 },
+    { "pair": "USD/CNY", "value": 7.128, "changePct": 0.02 }
+  ],
+  "commodities": [
+    { "name": "Gold", "unit": "USD/oz", "value": 2486.30, "changePct": 0.94 },
+    { "name": "Silver", "unit": "USD/oz", "value": 29.62, "changePct": 1.35 },
+    { "name": "Crude Oil (WTI)", "unit": "USD/bbl", "value": 78.42, "changePct": 2.10 },
+    { "name": "Brent Crude", "unit": "USD/bbl", "value": 82.15, "changePct": 1.98 },
+    { "name": "Natural Gas", "unit": "USD/MMBtu", "value": 2.71, "changePct": -1.42 },
+    { "name": "Copper", "unit": "USD/lb", "value": 4.31, "changePct": 0.61 },
+    { "name": "Aluminium", "unit": "USD/tonne", "value": 2412, "changePct": -0.22 }
+  ],
+  "crypto": [
+    { "name": "Bitcoin", "symbol": "BTC", "value": 68420, "changePct": 1.85 },
+    { "name": "Ethereum", "symbol": "ETH", "value": 3142, "changePct": 2.40 },
+    { "name": "Total Crypto Market Cap", "symbol": "TOTAL", "value": 2410000000000, "changePct": 1.60 }
+  ]
+}
