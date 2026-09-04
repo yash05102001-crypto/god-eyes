@@ -1,0 +1,10 @@
+{
+  "name": "god-eyes-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Combined build/start scripts so a single host (e.g. Render) can serve both the API and the frontend from one deployment.",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build && cd ../backend && npm install",
+    "start": "node backend/src/server.js"
+  }
+}
